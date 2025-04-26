@@ -1,16 +1,17 @@
-## Halo semua👋
+<p align="left">Hello World!!</p>
 
-<!--
-**Josuaja/Josuaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
-- 🔭 I’m currently working on school
-- 🌱 I’m currently learning school
-- 👯 I’m looking to collaborate on school
-- 🤔 I’m looking for help with
-- 💬 Ask me about 
-- 📫 How to reach me: contact @josuanovalinocaesar@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: aku suka makan
--->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Josuaja/Josuaja/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Josuaja/Josuaja/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Josuaja/Josuaja/output/pacman-contribution-graph.svg">
+</picture>
+
+###
